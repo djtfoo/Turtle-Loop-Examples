@@ -97,7 +97,7 @@ for n in range(0, 36):  # number of circles
 
 ----------
 
-#### Circular Pattern
+#### Spirograph
 ```python
 import turtle
 
@@ -112,7 +112,7 @@ for n in range(0, 36):  # number of circles
   t.left(10)
   t.forward(10)
 ```
-![circular pattern](Screenshots/circles.png)
+![spirograph](Screenshots/circles.png)
 
 
 ### Varying Pensize
@@ -157,7 +157,7 @@ for i in range(0, 120):
 
 -------------
 
-#### Circular Pattern (with varying pensize)
+#### Spirograph (with varying pensize)
 ```python
 import turtle
 
@@ -175,7 +175,7 @@ for n in range(0, 36):  # number of circles
   t.left(10)
   t.forward(10)
 ```
-![circle-pattern](Screenshots/circles-pattern-pensize.png)
+![spirograph-2](Screenshots/circles-pattern-pensize.png)
 
 -------------
 
